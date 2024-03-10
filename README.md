@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [3-column-preview-card](https://github.com/mbtenkorang/3-column-preview-card)
-- Live Site URL: [3-column-preview-card-fem](https://3-column-preview-card-fem.onrender.com)
+- Live Site URL: [3-column-preview-card-fem](https://three-column-preview-card-fem.onrender.com)
 
 ## My process
 
